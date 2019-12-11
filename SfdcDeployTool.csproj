@@ -86,7 +86,8 @@
     </Reference>
     <Reference Include="SalesforceAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b961a3e9eb6a80dc, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\salesforceapi\bin\Debug\SalesforceAPI.dll</HintPath>
+      <HintPath>lib\SalesforceAPI.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -178,6 +179,9 @@
     <Content Include="cloudupload.ico" />
     <None Include="Resources\error16.png" />
     <None Include="Resources\close16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="lib\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
