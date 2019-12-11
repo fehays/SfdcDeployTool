@@ -177,12 +177,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="cloudupload.ico" />
+    <Content Include="lib\SalesforceAPI.dll" />
     <None Include="Resources\error16.png" />
     <None Include="Resources\close16.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="lib\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
