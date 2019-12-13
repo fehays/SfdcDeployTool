@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Sfdc Deploy Tool")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Salesforce deployment tool using Metadata API")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Coeptech Consulting, LLC")]
 [assembly: AssemblyProduct("Sfdc Deploy Tool")]

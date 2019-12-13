@@ -20,18 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5185E347-6DB1-4840-B5D2-B0F1F1E93123}
-	EndGlobalSection
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Debug|Default = Debug|Default
-		Release|Any CPU = Release|Any CPU
-		Release|Default = Release|Default
-	EndGlobalSection
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Debug|Default = Debug|Default
-		Release|Any CPU = Release|Any CPU
-		Release|Default = Release|Default
+		SolutionGuid = {02EE2FFD-89BB-465F-B097-19A9080CE2AB}
 	EndGlobalSection
 EndGlobal
