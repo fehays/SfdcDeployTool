@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SfdcDeployTool.exe" size="54784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SfdcDeployTool.exe" size="55296">
       <assemblyIdentity name="SfdcDeployTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1rEM6ACSLHcRpIc7jZ7R8Tem+U8Vrn1gyamo5PdTNGY=</dsig:DigestValue>
+        <dsig:DigestValue>FBqH15hoKuXXFlh9ru87FsdA1tndlONtngscr1E+OHU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,15 +85,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>TMbM9FR6dr1PI0d4WPUCKj4aTpD0zVQSYBhSxLXnw5M=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="lib\SalesforceAPI.dll" size="1714688">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>M0oTiQQ8pqmSDc73LADFGPG3qUOGITkiiRyDGyCiLBc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SfdcDeployTool.exe.config" size="1292">
