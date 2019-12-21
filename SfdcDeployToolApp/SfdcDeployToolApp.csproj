@@ -24,7 +24,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://raw.githubusercontent.com/fehays/SfdcDeployTool/clickonce/SfdcDeployToolApp/publish/</InstallUrl>
+    <InstallUrl>https://raw.githubusercontent.com/fehays/SfdcDeployTool/master/SfdcDeployToolApp/publish/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/fehays/SfdcDeployTool/clickonce/SfdcDeployToolApp/publish/</UpdateUrl>
     <SupportUrl>http://www.coeptech.com</SupportUrl>
     <ProductName>Sfdc Deploy Tool</ProductName>
